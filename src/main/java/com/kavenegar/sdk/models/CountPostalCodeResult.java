@@ -12,6 +12,7 @@ import java.util.Objects;
  * Contains a message count associated with a specific geographical section.
  * Provides utility methods for validation, comparison, and structured reporting.
  *
+  */
 public class CountPostalCodeResult {
 
     private final String section;
